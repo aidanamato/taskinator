@@ -103,7 +103,7 @@ footer {
   border: 2px solid var(--grey);
 }
 
-.task-item {
+.task-list li {
   color: var(--grey);
   padding: 15px 15px;
   border: 2px solid var(--grey);
